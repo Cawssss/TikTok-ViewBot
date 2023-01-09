@@ -5,7 +5,7 @@ import requests
 import pyperclip
 import pyautogui
 
-lien = input("Link of your tiktok video : ")
+lien = input(https://www.tiktok.com/@the_nml/video/7186470103289056555?is_from_webapp=1&sender_device=pc&web_id=7186469709465224746)
 
 for i in range (200):
 
